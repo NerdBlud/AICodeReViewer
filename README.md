@@ -26,7 +26,7 @@ An intelligent GitHub bot that automatically reviews pull requests using OpenAI'
 
 ```bash
 # Option 1: Clone as a subdirectory
-git clone https://github.com/yourusername/ai-code-reviewer.git
+git clone https://github.com/yourusername/AICodeReViewer.git
 
 # Option 2: Copy files directly to your repo
 cp -r ai-code-reviewer/* your-repo/
@@ -63,7 +63,7 @@ git push origin main
 ## 📁 Project Structure
 
 ```
-ai-code-reviewer/
+AICodeReViewer/
 ├── .github/
 │   └── workflows/
 │       └── review.yml          # GitHub Actions workflow
@@ -232,9 +232,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 [Report a bug](https://github.com/nerdblud/ai-code-reviewer/issues)
-- 💡 [Request a feature](https://github.com/nerdblud/ai-code-reviewer/issues)
-- 📖 [Read the docs](https://github.com/nerdblud/ai-code-reviewer/wiki)
+- 🐛 [Report a bug](https://github.com/nerdblud/AICodeReViewer/issues)
+- 💡 [Request a feature](https://github.com/nerdblud/AICodeReViewer/issues)
+- 📖 [Read the docs](https://github.com/nerdblud/AICodeReViewer/wiki)
 
 ---
 
